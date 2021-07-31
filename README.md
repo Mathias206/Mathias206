@@ -1,7 +1,7 @@
 <div> 
   <h1 align="center">
     Olá! 	:wave: Você chegou ao meu perfil do Github! 
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/HzKucfKekPlCF7CMI4/giphy.gif" width="50" height="50">
    <h1>
 </div>
 
@@ -13,7 +13,7 @@
 <div> 
   <h1 align="center">
     Minhas tecnologias
-    <img src="https://im3.ezgif.com/tmp/ezgif-3-9d519172bc2b.gif" width="35" height="35">
+    <img src="https://media.giphy.com/media/0TQQMjQgJApk7CBJmZ/giphy.gif" width="35" height="35">
     <br> <br>
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" width="110" height="40">
     <a href="https://github.com/Mathias206/Django-blog">
@@ -30,7 +30,7 @@
     
  <h1 align="center">
    Conecte-se comigo!
-    <img src="https://im3.ezgif.com/tmp/ezgif-3-365ef4052e8d.gif" width="50" height="40">
+    <img src="https://media.giphy.com/media/BFtyM3ky6Ie8zEGjO3/giphy.gif" width="50">
     <br> <br>
    <a href="https://www.linkedin.com/in/mathiasfnandes/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="158" height="40">

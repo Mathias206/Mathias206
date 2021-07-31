@@ -1,16 +1,46 @@
-### Hi there 👋
+<div> 
+  <h1 align="center">
+    Olá! 	:wave: Você chegou ao meu perfil do Github! 
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-4a0d4c01a259.gif" width="50" height="50">
+   <h1>
+</div>
 
-<!--
-**Mathias206/Mathias206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Eu+sou+Mathias+Fernandes.;Sou+desenvolvedor+Java.;E+movido+por+desafios!;Acho+que+por+essa+raz%C3%A3o+escolhi+Java+haha+%3AD)](https://git.io/typing-svg)<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mathias206&show_icons=true&theme=radical" alt="">
+    </p>
+<br>
+<div> 
+  <h1 align="center">
+    Minhas tecnologias
+    <img src="https://im3.ezgif.com/tmp/ezgif-3-9d519172bc2b.gif" width="35" height="35">
+    <br> <br>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" width="110" height="40">
+    <a href="https://github.com/Mathias206/Django-blog">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" width="120" height="40">
+    </a>
+    <a href="https://github.com/Mathias206/Django-blog">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="" width="120" height="40">
+    </a>
+    <a href="https://github.com/Mathias206/linux-wallpaper-changer">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="199" height="40">
+    </a>
+   <h1>
+</div>
+    
+ <h1 align="center">
+   Conecte-se comigo!
+    <img src="https://im3.ezgif.com/tmp/ezgif-3-365ef4052e8d.gif" width="50" height="40">
+    <br> <br>
+   <a href="https://www.linkedin.com/in/mathiasfnandes/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="158" height="40">
+   </a>
+   <a href="https://i.imgur.com/CBNYYqD.jpg">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40">
+   </a>
+   <a href="mailto:mathiasanony@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+     </a>
+   <h1>
+     
+</div>

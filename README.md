@@ -1,7 +1,7 @@
 <div> 
   <h1 align="center">
     Olá! 	:wave: Você chegou ao meu perfil do Github! 
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-4a0d4c01a259.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" height="50">
    <h1>
 </div>
 
